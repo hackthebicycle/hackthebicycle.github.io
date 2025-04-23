@@ -2,10 +2,12 @@
 
 - type: github
   icon: "fab fa-github"
+  url: 'https://github.com/hackthebicycle'
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
-
+  url: 'https://x.com/hackthebike'
+  
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
