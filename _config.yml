@@ -23,11 +23,9 @@ title:hackthebicycle
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://www.hackthebicycle.github.io"
 
-github:
-  username:https://github.com/hackthebicycle # change to your GitHub username
+github: https://github.com/hackthebicycle # change to your GitHub username
 
-twitter:
-  username:https://twitter.com/hackthebike # change to your Twitter username
+twitter: https://twitter.com/hackthebike # change to your Twitter username
 
 social:
   # Change to your full name.
